@@ -4,7 +4,7 @@
 今のところ前進するプログラムのみ作成してます。
 →元記事:３Ｄプリンタで作るいいかげんロボティクス（第２回）：犬猫ロボット　（https://qiita.com/wilted_cabbage/items/bf660707192d92eb989b）
 
-main.py→メイン関数RoboDog.pyで作ったモーションを再生します。
+main.py→メイン関数。RoboDog.pyで作ったモーションを再生します。
 
 RoboDog.py→サーボの角度を組み合わせて、ロボの動きを作ります。
 
